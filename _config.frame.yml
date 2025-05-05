@@ -1,0 +1,11 @@
+# 这里只需要写你想要覆盖的配置项
+site_brand_name: soga061的小屋
+
+profile:
+  title: soga061的小屋
+  body: >
+    Life is like a snowball.
+    The important thing is finding wet snow 
+    and a really long hill.
+  image: ''  # 明确设置为空字符串
+# 其他配置保持默认 
